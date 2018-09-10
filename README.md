@@ -3,6 +3,12 @@ ud-classic-arcade-game
 
 ## Instructions
 
+#### You can directly click on this [link](https://lalitmee.github.io/ud-classic-arcade-game/) to play the game
+
+# OR
+
+#### You can follow instructions below to run the game locally.
+
 1. Run the Game
 
    - ```shell
